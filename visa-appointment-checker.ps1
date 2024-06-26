@@ -20,18 +20,18 @@ ScheduleId comes from the URL where you make the visa payment https://ais.usvisa
 
 [CmdletBinding()]
 param (
-    [Parameter(
+    [Parameter(muhittin86@hotmail.com
         Mandatory = $true
     )]
     [string]$email,
-    [Parameter(
+    [Parameter(muhittin86@hotmail.com
         Mandatory = $true
     )]
     [string]$password,
-    [Parameter(
+    [Parameter(19862018
         Mandatory = $true
     )]
-    [int]$scheduleId
+    [int]$scheduleId59691645
 )
 
 [string]$loginUrl = "https://ais.usvisa-info.com/en-tr/iv/users/sign_in"
